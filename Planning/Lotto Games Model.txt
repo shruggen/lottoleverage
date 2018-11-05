@@ -1,0 +1,23 @@
+Lotto Game Models:
+
+Architecture:
+	- Database model
+	- View Templates
+	- Inputs
+	- Outputs
+	- Store-ables
+	- User Preferences
+
+Games have various inputs that will be managed by it's own controller and database model.
+They will also have a defined output of a list of playable lottery numbers and game type (Powerball, Mega Millions, etc..)
+
+Lotto Game Definition:
+	- Model
+		- Users' Game Data (Preferences and Game Store-ables, ex: birthdays, numbers played before)
+		- External data sources (locally cached and updated, if necessary)
+	- Views
+		- Templates for the given game
+		- Graphics and Sounds assets for game
+	- Controller
+		- Game Scenario - Theory of Play/Rules
+		-

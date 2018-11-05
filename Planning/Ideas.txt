@@ -1,0 +1,6 @@
+Lottery News and Facts
+
+- Income tax calculation on given jackpot, broken down by state
+- Break down of the odds of winning, and the odds given a particular method (if advantages to state)
+- List of past winners
+- Map of US color coded for amount of winners in state, push-pin for town of winner

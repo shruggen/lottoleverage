@@ -6,4 +6,4 @@ Lottery News and Facts
 - Map of US color coded for amount of winners in state, push-pin for town of winner
 
 
-I wonder if this site makes any money: www dot lotteryusa dot com
+I wonder if this site makes any money: http://www.lotteryusa.com

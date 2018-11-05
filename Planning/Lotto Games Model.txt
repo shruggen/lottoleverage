@@ -20,4 +20,10 @@ Lotto Game Definition:
 		- Graphics and Sounds assets for game
 	- Controller
 		- Game Scenario - Theory of Play/Rules
-		-
+		- Timed jobs and data pulls
+
+Game Categories/Basis:
+	- Astrological
+	- Lightning never strikes twice same place
+	- i Ching
+	- Special Numbers (Birthdays, Anniversaries, Lucky numbers)

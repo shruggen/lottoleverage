@@ -4,3 +4,6 @@ Lottery News and Facts
 - Break down of the odds of winning, and the odds given a particular method (if advantages to state)
 - List of past winners
 - Map of US color coded for amount of winners in state, push-pin for town of winner
+
+
+I wonder if this site makes any money: https://www.lotteryusa.com

@@ -27,3 +27,4 @@ Game Categories/Basis:
 	- Lightning never strikes twice same place
 	- i Ching
 	- Special Numbers (Birthdays, Anniversaries, Lucky numbers)
+	- Sports (Player#, Scores)
